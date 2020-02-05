@@ -1,2 +1,2 @@
 # ReactASPCrud
-ReactASPCrud projesinin saklanmasını amaçlamaktadır.
+ReactASPCrud projesinin saklanmasını için oluşturulmuştur.
