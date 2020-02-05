@@ -1,3 +1,4 @@
+//Rest isteği örneği
 import axios from 'axios';
 
 
